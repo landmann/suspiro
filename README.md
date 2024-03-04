@@ -17,7 +17,7 @@
 
 1. Clone repo
     ```bash
-    git clone https://github.com/Fanghua-Yu/SUPIR.git
+    git clone https://github.com/landmann/suspiro
     cd SUPIR
     ```
 
